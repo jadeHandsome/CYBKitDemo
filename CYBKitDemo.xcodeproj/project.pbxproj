@@ -7,28 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		01A6571F2288F3DD008108DF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A6571E2288F3DD008108DF /* AppDelegate.m */; };
-		01A657222288F3DD008108DF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A657212288F3DD008108DF /* ViewController.m */; };
-		01A657252288F3DD008108DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01A657232288F3DD008108DF /* Main.storyboard */; };
-		01A657272288F3DE008108DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01A657262288F3DE008108DF /* Assets.xcassets */; };
-		01A6572A2288F3DE008108DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01A657282288F3DE008108DF /* LaunchScreen.storyboard */; };
-		01A6572D2288F3DE008108DF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A6572C2288F3DE008108DF /* main.m */; };
-		01A657352288F3EB008108DF /* CYBScrollLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A657342288F3EB008108DF /* CYBScrollLabel.m */; };
+		01C2CBB9228A52B00009E0FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01C2CBAA228A52B00009E0FD /* Assets.xcassets */; };
+		01C2CBBA228A52B00009E0FD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C2CBAB228A52B00009E0FD /* ViewController.m */; };
+		01C2CBBB228A52B00009E0FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01C2CBAC228A52B00009E0FD /* LaunchScreen.storyboard */; };
+		01C2CBBC228A52B00009E0FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01C2CBAE228A52B00009E0FD /* Main.storyboard */; };
+		01C2CBBD228A52B00009E0FD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C2CBB0228A52B00009E0FD /* main.m */; };
+		01C2CBBE228A52B00009E0FD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C2CBB1228A52B00009E0FD /* AppDelegate.m */; };
+		01C2CBC0228A52B00009E0FD /* CYBTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C2CBB6228A52B00009E0FD /* CYBTextView.m */; };
+		01C2CBC1228A52B00009E0FD /* CYBScrollLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C2CBB7228A52B00009E0FD /* CYBScrollLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		01A6571A2288F3DD008108DF /* ScollLabelDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScollLabelDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		01A6571D2288F3DD008108DF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		01A6571E2288F3DD008108DF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		01A657202288F3DD008108DF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		01A657212288F3DD008108DF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		01A657242288F3DD008108DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		01A657262288F3DE008108DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		01A657292288F3DE008108DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		01A6572B2288F3DE008108DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		01A6572C2288F3DE008108DF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		01A657332288F3EB008108DF /* CYBScrollLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYBScrollLabel.h; sourceTree = "<group>"; };
-		01A657342288F3EB008108DF /* CYBScrollLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYBScrollLabel.m; sourceTree = "<group>"; };
+		01A6571A2288F3DD008108DF /* CYBKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CYBKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		01C2CBA9228A52B00009E0FD /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		01C2CBAA228A52B00009E0FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		01C2CBAB228A52B00009E0FD /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		01C2CBAD228A52B00009E0FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		01C2CBAF228A52B00009E0FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		01C2CBB0228A52B00009E0FD /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		01C2CBB1228A52B00009E0FD /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		01C2CBB2228A52B00009E0FD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01C2CBB3228A52B00009E0FD /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		01C2CBB5228A52B00009E0FD /* CYBScrollLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYBScrollLabel.h; sourceTree = "<group>"; };
+		01C2CBB6228A52B00009E0FD /* CYBTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYBTextView.m; sourceTree = "<group>"; };
+		01C2CBB7228A52B00009E0FD /* CYBScrollLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYBScrollLabel.m; sourceTree = "<group>"; };
+		01C2CBB8228A52B00009E0FD /* CYBTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYBTextView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,7 +48,7 @@
 		01A657112288F3DD008108DF = {
 			isa = PBXGroup;
 			children = (
-				01A6571C2288F3DD008108DF /* ScollLabelDemo */,
+				01C2CBA8228A52B00009E0FD /* CYBKitDemo */,
 				01A6571B2288F3DD008108DF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,35 +56,45 @@
 		01A6571B2288F3DD008108DF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				01A6571A2288F3DD008108DF /* ScollLabelDemo.app */,
+				01A6571A2288F3DD008108DF /* CYBKitDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		01A6571C2288F3DD008108DF /* ScollLabelDemo */ = {
+		01C2CBA8228A52B00009E0FD /* CYBKitDemo */ = {
 			isa = PBXGroup;
 			children = (
-				01A657332288F3EB008108DF /* CYBScrollLabel.h */,
-				01A657342288F3EB008108DF /* CYBScrollLabel.m */,
-				01A6571D2288F3DD008108DF /* AppDelegate.h */,
-				01A6571E2288F3DD008108DF /* AppDelegate.m */,
-				01A657202288F3DD008108DF /* ViewController.h */,
-				01A657212288F3DD008108DF /* ViewController.m */,
-				01A657232288F3DD008108DF /* Main.storyboard */,
-				01A657262288F3DE008108DF /* Assets.xcassets */,
-				01A657282288F3DE008108DF /* LaunchScreen.storyboard */,
-				01A6572B2288F3DE008108DF /* Info.plist */,
-				01A6572C2288F3DE008108DF /* main.m */,
+				01C2CBB4228A52B00009E0FD /* CYBKit */,
+				01C2CBAA228A52B00009E0FD /* Assets.xcassets */,
+				01C2CBA9228A52B00009E0FD /* AppDelegate.h */,
+				01C2CBB1228A52B00009E0FD /* AppDelegate.m */,
+				01C2CBB3228A52B00009E0FD /* ViewController.h */,
+				01C2CBAB228A52B00009E0FD /* ViewController.m */,
+				01C2CBAC228A52B00009E0FD /* LaunchScreen.storyboard */,
+				01C2CBAE228A52B00009E0FD /* Main.storyboard */,
+				01C2CBB0228A52B00009E0FD /* main.m */,
+				01C2CBB2228A52B00009E0FD /* Info.plist */,
 			);
-			path = ScollLabelDemo;
+			path = CYBKitDemo;
+			sourceTree = "<group>";
+		};
+		01C2CBB4228A52B00009E0FD /* CYBKit */ = {
+			isa = PBXGroup;
+			children = (
+				01C2CBB5228A52B00009E0FD /* CYBScrollLabel.h */,
+				01C2CBB6228A52B00009E0FD /* CYBTextView.m */,
+				01C2CBB7228A52B00009E0FD /* CYBScrollLabel.m */,
+				01C2CBB8228A52B00009E0FD /* CYBTextView.h */,
+			);
+			path = CYBKit;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		01A657192288F3DD008108DF /* ScollLabelDemo */ = {
+		01A657192288F3DD008108DF /* CYBKitDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 01A657302288F3DE008108DF /* Build configuration list for PBXNativeTarget "ScollLabelDemo" */;
+			buildConfigurationList = 01A657302288F3DE008108DF /* Build configuration list for PBXNativeTarget "CYBKitDemo" */;
 			buildPhases = (
 				01A657162288F3DD008108DF /* Sources */,
 				01A657172288F3DD008108DF /* Frameworks */,
@@ -91,9 +104,9 @@
 			);
 			dependencies = (
 			);
-			name = ScollLabelDemo;
+			name = CYBKitDemo;
 			productName = ScollLabelDemo;
-			productReference = 01A6571A2288F3DD008108DF /* ScollLabelDemo.app */;
+			productReference = 01A6571A2288F3DD008108DF /* CYBKitDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +123,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 01A657152288F3DD008108DF /* Build configuration list for PBXProject "ScollLabelDemo" */;
+			buildConfigurationList = 01A657152288F3DD008108DF /* Build configuration list for PBXProject "CYBKitDemo" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +136,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				01A657192288F3DD008108DF /* ScollLabelDemo */,
+				01A657192288F3DD008108DF /* CYBKitDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -133,9 +146,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				01A6572A2288F3DE008108DF /* LaunchScreen.storyboard in Resources */,
-				01A657272288F3DE008108DF /* Assets.xcassets in Resources */,
-				01A657252288F3DD008108DF /* Main.storyboard in Resources */,
+				01C2CBBC228A52B00009E0FD /* Main.storyboard in Resources */,
+				01C2CBB9228A52B00009E0FD /* Assets.xcassets in Resources */,
+				01C2CBBB228A52B00009E0FD /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,30 +159,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				01A657352288F3EB008108DF /* CYBScrollLabel.m in Sources */,
-				01A657222288F3DD008108DF /* ViewController.m in Sources */,
-				01A6572D2288F3DE008108DF /* main.m in Sources */,
-				01A6571F2288F3DD008108DF /* AppDelegate.m in Sources */,
+				01C2CBBD228A52B00009E0FD /* main.m in Sources */,
+				01C2CBBA228A52B00009E0FD /* ViewController.m in Sources */,
+				01C2CBC1228A52B00009E0FD /* CYBScrollLabel.m in Sources */,
+				01C2CBC0228A52B00009E0FD /* CYBTextView.m in Sources */,
+				01C2CBBE228A52B00009E0FD /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		01A657232288F3DD008108DF /* Main.storyboard */ = {
+		01C2CBAC228A52B00009E0FD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				01A657242288F3DD008108DF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		01A657282288F3DE008108DF /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				01A657292288F3DE008108DF /* Base */,
+				01C2CBAD228A52B00009E0FD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		01C2CBAE228A52B00009E0FD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				01C2CBAF228A52B00009E0FD /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -293,7 +307,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = U4S4SGXKFS;
-				INFOPLIST_FILE = ScollLabelDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/CYBKitDemo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -310,7 +324,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = U4S4SGXKFS;
-				INFOPLIST_FILE = ScollLabelDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/CYBKitDemo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -324,7 +338,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		01A657152288F3DD008108DF /* Build configuration list for PBXProject "ScollLabelDemo" */ = {
+		01A657152288F3DD008108DF /* Build configuration list for PBXProject "CYBKitDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01A6572E2288F3DE008108DF /* Debug */,
@@ -333,7 +347,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		01A657302288F3DE008108DF /* Build configuration list for PBXNativeTarget "ScollLabelDemo" */ = {
+		01A657302288F3DE008108DF /* Build configuration list for PBXNativeTarget "CYBKitDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01A657312288F3DE008108DF /* Debug */,

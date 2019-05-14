@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ScollLabelDemo.xcodeproj">
+      location = "self:/Users/cenghonglei/Desktop/ScollLabelDemo/CYBKitDemo.xcodeproj">
    </FileRef>
 </Workspace>
