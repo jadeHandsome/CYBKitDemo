@@ -27,6 +27,7 @@
     label.text = @"我是一只狼11111";
     [self.view addSubview:label];
     [label startScoll];
+    
     //自定义textView
     CYBTextView *textView = [[CYBTextView alloc]initWithFrame:CGRectMake(50, 100, 200, 70)];
     textView.placeholder = @"我是占位字符我是占位字符我是占位字符我是占位字符";
