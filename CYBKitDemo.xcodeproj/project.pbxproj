@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		011803302297C656005AD4AA /* CYBLunBoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0118032F2297C656005AD4AA /* CYBLunBoView.m */; };
 		01C2CBB9228A52B00009E0FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01C2CBAA228A52B00009E0FD /* Assets.xcassets */; };
 		01C2CBBA228A52B00009E0FD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C2CBAB228A52B00009E0FD /* ViewController.m */; };
 		01C2CBBB228A52B00009E0FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01C2CBAC228A52B00009E0FD /* LaunchScreen.storyboard */; };
@@ -18,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0118032E2297C656005AD4AA /* CYBLunBoView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CYBLunBoView.h; sourceTree = "<group>"; };
+		0118032F2297C656005AD4AA /* CYBLunBoView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CYBLunBoView.m; sourceTree = "<group>"; };
 		01A6571A2288F3DD008108DF /* CYBKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CYBKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01C2CBA9228A52B00009E0FD /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		01C2CBAA228A52B00009E0FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -82,9 +85,11 @@
 			isa = PBXGroup;
 			children = (
 				01C2CBB5228A52B00009E0FD /* CYBScrollLabel.h */,
-				01C2CBB6228A52B00009E0FD /* CYBTextView.m */,
 				01C2CBB7228A52B00009E0FD /* CYBScrollLabel.m */,
 				01C2CBB8228A52B00009E0FD /* CYBTextView.h */,
+				01C2CBB6228A52B00009E0FD /* CYBTextView.m */,
+				0118032E2297C656005AD4AA /* CYBLunBoView.h */,
+				0118032F2297C656005AD4AA /* CYBLunBoView.m */,
 			);
 			path = CYBKit;
 			sourceTree = "<group>";
@@ -163,6 +168,7 @@
 				01C2CBBA228A52B00009E0FD /* ViewController.m in Sources */,
 				01C2CBC1228A52B00009E0FD /* CYBScrollLabel.m in Sources */,
 				01C2CBC0228A52B00009E0FD /* CYBTextView.m in Sources */,
+				011803302297C656005AD4AA /* CYBLunBoView.m in Sources */,
 				01C2CBBE228A52B00009E0FD /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

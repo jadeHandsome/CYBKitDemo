@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "CYBScrollLabel.h"
 #import "CYBTextView.h"
+#import "CYBLunBoView.h"
 @interface ViewController ()
 
 @end
@@ -38,6 +39,10 @@
     textView.layer.borderColor = [UIColor lightGrayColor].CGColor;
     textView.clipsToBounds = YES;
     [self.view addSubview:textView];
+    
+    CYBLunBoView *lun = [[CYBLunBoView alloc]initWithFrame:CGRectMake(50, 200, 200, 30)];
+    lun.texts = @[@"111111111111111111",@"22222222222222222222",@"333333333333333",@"4444444444444",@"5555555555555",@"666666666666",@"777777777777"];
+    [self.view addSubview:lun];
 }
 
 @end
